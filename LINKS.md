@@ -10,4 +10,4 @@
 - **С доступным Gemini (топ-100)** — gemini_working.txt: [подписка](https://raw.githubusercontent.com/zetnikovic-ship-it/lichniyParser/main/gemini_working.txt) · [читаемый список](https://raw.githubusercontent.com/zetnikovic-ship-it/lichniyParser/main/gemini_working_links.txt)
 - **С доступным Gemini (топ-10)** — gemini_top_10.txt: [подписка](https://raw.githubusercontent.com/zetnikovic-ship-it/lichniyParser/main/gemini_top_10.txt) · [читаемый список](https://raw.githubusercontent.com/zetnikovic-ship-it/lichniyParser/main/gemini_top_10_links.txt)
 
-_Обновлено: 2026-10-18 13:06_
+_Обновлено: 2026-10-18 15:48_
