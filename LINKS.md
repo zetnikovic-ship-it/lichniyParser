@@ -11,4 +11,4 @@
 - **С доступным Gemini (топ-10)** — gemini_top_10.txt: [подписка](https://raw.githubusercontent.com/zetnikovic-ship-it/lichniyParser/main/gemini_top_10.txt) · [читаемый список](https://raw.githubusercontent.com/zetnikovic-ship-it/lichniyParser/main/gemini_top_10_links.txt)
 - **Cloudflare-конфиги (могут не работать)** — cloudflare.txt: [подписка](https://raw.githubusercontent.com/zetnikovic-ship-it/lichniyParser/main/cloudflare.txt) · [читаемый список](https://raw.githubusercontent.com/zetnikovic-ship-it/lichniyParser/main/cloudflare_links.txt)
 
-_Обновлено: 2026-10-27 21:32_
+_Обновлено: 2026-10-28 16:56_
